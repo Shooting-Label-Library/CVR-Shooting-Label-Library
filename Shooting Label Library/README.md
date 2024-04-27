@@ -1,4 +1,5 @@
 **Library Organization**
+
 The if-CVR is organized into three main categories:
 
 **Camera Shot Size and Angle**
