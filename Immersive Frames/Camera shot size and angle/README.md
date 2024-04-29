@@ -1,4 +1,4 @@
-Camera shot size: 
+**Camera shot size: **
 
 Determines how much of the scene is visible. 
 
@@ -6,7 +6,7 @@ Variations range from extreme long shots, capturing vast landscapes or settings,
 
 Each size serves a specific narrative purpose, affecting how viewers connect with the story and characters.
 
-Camera angle: 
+**Camera angle: **
 
 The camera's angle relative to the subject adds another layer of meaning. 
 
