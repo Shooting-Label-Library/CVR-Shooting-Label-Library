@@ -12,11 +12,13 @@ o	Scene: A ground-level shot of a dark, eerie hallway in a VR horror game.
 
 o	Emotion: Enhances the sense of fear and vulnerability, making the viewer feel exposed and uneasy as they navigate the environment.
 
+
 2.	Environmental Exploration
 
 o	Scene: A ground-level shot of a forest floor or urban street in a virtual tourism experience.
 
 o	Emotion: Provides an intimate and detailed view of the environment, allowing viewers to notice small details and feel more connected to the setting.
+
 
 3.	Educational Content
 
